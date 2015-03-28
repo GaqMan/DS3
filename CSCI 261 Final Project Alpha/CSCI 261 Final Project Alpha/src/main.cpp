@@ -26,7 +26,7 @@ int main()
 		window.clear();
 
 		window.display();
-
+cody is dumb
 		Event event;
 		while (window.pollEvent(event))
 		{
